@@ -11,7 +11,7 @@ let createRect = (x, y, width, height, color) => {
 const DIRECTION_RIGHT = 4;
 const DIRECTION_UP = 3;
 const DIRECTION_LEFT = 2;
-const DIRECTION_BOTTOM = 1;
+const DIRECTION_BOTTOM = 1;22
 let lives = 3;
 let ghostCount = 4;
 let ghostImageLocations = [
